@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ternak Kita</string>
+    <string name="ternak_kita">Ternak Kita</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="belum_punya_akun">Belum Punya Akun ?</string>
+</resources>
